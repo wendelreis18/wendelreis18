@@ -1,4 +1,4 @@
-- 👋 Oiu sou Wendel
+- 👋 Oi, sou Wendel
 - 👀 Tenho interesse em desenvolver cada vez mais o area de programação
 - 🌱 Atualmente estou aprendendo HTML,CSS, JAVASCRIPT 
 - 💞️ Estou procurnado coladorar em projetos desta linguagem, tanto para sites ou jogos
